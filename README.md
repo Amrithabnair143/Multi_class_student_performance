@@ -1,1 +1,1 @@
-# Multi_class_student_performance
+# Multi_class_student_performance_prediction
